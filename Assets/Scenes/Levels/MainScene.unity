@@ -4401,8 +4401,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 5.000001, y: 4.6851273, z: 0.16518311}
-  m_Center: {x: -2.4999986, y: 2.0719004, z: -0.027716644}
+  m_Size: {x: 5.0000014, y: 0.52059555, z: 0.16518311}
+  m_Center: {x: -2.4999986, y: 4.154166, z: -0.027716644}
 --- !u!65 &578680520
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4414,8 +4414,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 5.000001, y: 4.6851273, z: 0.16518311}
-  m_Center: {x: -2.4999986, y: 2.0719004, z: -0.027716644}
+  m_Size: {x: 5.0000014, y: 0.47438574, z: 0.16518311}
+  m_Center: {x: -2.4999986, y: 4.177271, z: -0.027716644}
 --- !u!1 &580995421 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: 620336bbc8994e043b231e71ef851526, type: 3}
@@ -8253,7 +8253,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 11de9d883ba29e7408300ad1c2cc424b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.39
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 11de9d883ba29e7408300ad1c2cc424b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -11020,34 +11020,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 5.000001, y: 4.68513, z: 0.16518311}
-  m_Center: {x: -2.4999986, y: 2.071898, z: -0.027716644}
---- !u!65 &1624936420
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1624936416}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 5.000001, y: 4.68513, z: 0.16518311}
-  m_Center: {x: -2.4999986, y: 2.071898, z: -0.027716644}
---- !u!65 &1624936421
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1624936416}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 5.000001, y: 4.68513, z: 0.16518311}
-  m_Center: {x: -2.4999986, y: 2.071898, z: -0.027716644}
+  m_Size: {x: 5.0000014, y: 0.49633908, z: 0.12019931}
+  m_Center: {x: -2.4999986, y: 4.1662936, z: -0.0052246973}
 --- !u!1001 &1632616036
 PrefabInstance:
   m_ObjectHideFlags: 0
