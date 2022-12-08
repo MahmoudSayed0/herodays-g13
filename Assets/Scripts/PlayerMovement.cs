@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed;
 
     public float groundDrag;
-
+    public float MahmoudSayed;
     public float jumpForce;
     public float jumpCooldown;
     public float airMultiplier;
