@@ -24,7 +24,15 @@ public class final : MonoBehaviour
         {
             audio.Play();
             gameObject.SetActive(false);
+            
+            Invoke("Quit", 10);
+
         }
 
+    }
+
+    void Quit()
+    {
+        Application.Quit();
     }
 }
